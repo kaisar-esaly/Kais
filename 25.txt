@@ -1,0 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+double x,a,y;
+cin >>x>>a>>y;
+cout<<x*7+30*a+360*y;}

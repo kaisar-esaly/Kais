@@ -1,0 +1,8 @@
+ #include <bits/stdc++.h>
+using namespace std;
+int main(){
+cout <<'A'<<'A'<<'A'<<'A'<<'A'<<'A'<<'A'<<'A'<<endl;
+cout <<'A'<<" "<<" "<<" "<<" "<<" "<<" "<<'A'<<endl;
+cout <<'A'<<" "<<" "<<" "<<" "<<" "<<" "<<'A'<<endl;
+cout <<'A'<<" "<<" "<<" "<<" "<<" "<<" "<<'A'<<endl;
+cout <<'A'<<'A'<<'A'<<'A'<<'A'<<'A'<<'A'<<'A'<<endl;}

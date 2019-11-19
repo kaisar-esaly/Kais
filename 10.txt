@@ -1,0 +1,10 @@
+a) #include <bits/stdc++.h>
+using namespace std;
+int main(){
+double a=1.7;
+cout<<pow(a+1,2)+ 3*(a+1);}
+b) #include <bits/stdc++.h>
+using namespace std;
+int main(){
+int a=3;
+cout<<pow(a+1,2)+ 3*(a+1);}

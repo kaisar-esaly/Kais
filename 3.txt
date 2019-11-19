@@ -1,0 +1,6 @@
+  #include <bits/stdc++.h>
+using namespace std;
+int main(){
+ int a = 0;
+cout <<a<<endl<<a<<a<<endl<<a<<a<<a<<endl<<a<<a<<a<<a<<endl<<a<<a<<a<<a<<a;}
+

@@ -1,0 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+double a;
+cin >>a;
+cout<<pow(a,2)<<" "<<pow(a,3);}

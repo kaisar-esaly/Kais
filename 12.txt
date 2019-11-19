@@ -1,0 +1,5 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+double a=3.6;
+cout<<exp(a-2)+abs(sin(a))-pow(a,4)*cos(1/a);}
