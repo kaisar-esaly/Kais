@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+int main (){
+    int a,b;
+    cin >>a>>b;
+    if ((a==11 && b==0) ||(a==12 && b==-1) || (a==14 && b==1))
+    cout<<"north";
+    else if ((a==12 && b==0) ||(a==11 && b==1) || (a==13 && b==-1))
+    cout <<"west";
+    else if ((a==13 && b==0) ||(a==12 && b==1) || (a==14 && b==-1))
+    cout<<"south";
+    else if ((a==14 && b==0) ||(a==11 && b==-1) || (a==13 && b==1))
+    cout <<"east";
+    else cout<<"wrong input"; }
+    
